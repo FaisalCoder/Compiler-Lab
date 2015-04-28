@@ -1,0 +1,22 @@
+6
+E->E+T
+E->T
+T->T*F
+T->F
+F->(E)
+F->i
+12
+9
+i	+	*	(	)	$	E	T	F
+s5	b	b	s4	b	b	1	2	3
+b	s6	b	b	b	acc	b	b	b
+b	r2	s7	b	r2	r2	b	b	b
+b	r4	r4	b	r4	r4	b	b	b
+s5	b	b	s4	b	b	8	2	3
+b	r6	r6	b	r6	r6	b	b	b	
+s5	b	b	s4	b	b	b	9	3
+s5	b	b	s4	b	b	b	b	10
+b	s6	b	b	s11	b	b	b	b
+b	r1	s7	b	r1	r1	b	b	b
+b	r3	r3	b	r3	r3	b	b	b	
+b	r5	r5	b	r5	r5	b	b	b		

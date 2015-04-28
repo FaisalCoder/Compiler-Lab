@@ -1,0 +1,33 @@
+   Program : Identifier
+Lesson1_Program3 : Identifier
+       Var : Identifier
+      Num1 : Identifier
+         0 : Integer
+      Num2 : Identifier
+         1 : Integer
+       Sum : Identifier
+   Integer : Identifier
+     Begin : Identifier
+Comment Occurred
+     Write : Identifier
+     Input : Identifier
+    number : Identifier
+         1 : Integer
+    Readln : Identifier
+      Num1 : Identifier
+   Writeln : Identifier
+     Input : Identifier
+    number : Identifier
+         2 : Integer
+    Readln : Identifier
+      Num2 : Identifier
+       Sum : Identifier
+        := : Operator
+      Num1 : Identifier
+         + : Operator
+      Num2 : Identifier
+Comment Occurred
+   Writeln : Identifier
+       Sum : Identifier
+    Readln : Identifier
+       End : Identifier

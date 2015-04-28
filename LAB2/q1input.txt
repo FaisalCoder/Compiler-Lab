@@ -1,0 +1,7 @@
+num1 = 100
+k
+p
+num2
+if k <= 10
+then p = 12
+else num2 = 100.3E918

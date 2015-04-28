@@ -1,0 +1,12 @@
+#define NUMBER 257
+#define NOT 258
+#define OR 259
+#define AND 260
+#define OBRAC 261
+#define CBRAC 262
+#define GT 263
+#define LT 264
+#define EQ 265
+#define NEQ 266
+#define GEQ 267
+#define LEQ 268

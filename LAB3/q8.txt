@@ -1,0 +1,8 @@
+E - TP
+P - +TP
+P - e
+T - FK
+K - *FK
+K - e
+F - (E)
+F - i

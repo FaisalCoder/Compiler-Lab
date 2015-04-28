@@ -1,0 +1,8 @@
+s
+if s >= 100
+then s= 200
+
+while a < 10 
+do
+a = a + 1
+
